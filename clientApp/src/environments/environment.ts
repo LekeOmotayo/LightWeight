@@ -8,8 +8,8 @@ export const environment = {
     user: 'http://localhost:1234/api/user/',
     wallet: 'http://localhost:2345/api/wallet/',
     payment: 'http://localhost:3456/api/payment/',
-    billing: 'http://localhost:4567/api/billing/',
-  }
+    billing: 'http://localhost:4567/api/billing/'
+	}
 };
 
 /*
